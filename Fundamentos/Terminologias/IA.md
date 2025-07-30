@@ -15,7 +15,7 @@ IA pode abranger desde sistemas simples baseados em regras até redes neurais pr
 ## 🧾 Origem do termo
 O termo ***"Artificial Intelligence"*** foi cunhado em ***1956*** durante a ***Dartmouth Conference***, por um grupo de pesquisadores liderado por ***John McCarthy***, que é frequentemente chamado de "pai da IA". Na proposta do projeto, eles declararam:
 
-    *"Todo aspecto do aprendizado ou qualquer outra característica da inteligência pode, em princípio, ser descrito de forma tão precisa que uma máquina pode simulá-lo."*
+*"Todo aspecto do aprendizado ou qualquer outra característica da inteligência pode, em princípio, ser descrito de forma tão precisa que uma máquina pode simulá-lo."*
 
 Esse evento marcou o nascimento oficial da IA como um campo acadêmico.
 
