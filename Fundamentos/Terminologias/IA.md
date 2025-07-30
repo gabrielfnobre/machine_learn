@@ -4,7 +4,7 @@
 
 Inteligência Artificial (IA) é o ramo da ciência da computação que busca desenvolver sistemas capazes de realizar tarefas que normalmente requerem inteligência humana. Essas tarefas incluem:
 
-    * Raciocínio lógico
+* Raciocínio lógico
     * Aprendizado e adaptação (machine learning)
     * Reconhecimento de padrões
     * Percepção (visão, fala, etc.)
