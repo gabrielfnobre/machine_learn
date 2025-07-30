@@ -1,6 +1,6 @@
-#🧠 Inteligência Artificial (IA)
+# 🧠 Inteligência Artificial (IA)
 
-##📖 O que é?
+## 📖 O que é?
 
 Inteligência Artificial (IA) é o ramo da ciência da computação que busca desenvolver sistemas capazes de realizar tarefas que normalmente requerem inteligência humana. Essas tarefas incluem:
 
