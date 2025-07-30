@@ -51,3 +51,6 @@ Muitos sistemas de ***automação industrial***, ***diagnóstico técnico***, **
 | Aprendizado            | Não aprende com dados             | Aprende automaticamente    |
 | Explicabilidade        | Alta (regras claras)              | Pode ser difícil de explicar|
 | Flexibilidade          | Baixa para mudanças e exceções   | Alta adaptabilidade        |
+
+### 🎓 Dica prática
+Se você trabalha com ***processos baseados em regras fixas***, ***validações complexas*** ou ***compliance regulatório***, os sistemas especialistas ainda são uma escolha estratégica — e podem ser combinados com machine learning para criar ***sistemas híbridos***.
