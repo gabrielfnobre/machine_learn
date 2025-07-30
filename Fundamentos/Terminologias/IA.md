@@ -19,53 +19,38 @@ O termo ***"Artificial Intelligence"*** foi cunhado em ***1956*** durante a ***D
 
 Esse evento marcou o nascimento oficial da IA como um campo acadêmico.
 
-💡 Significado real na prática
-Hoje, o termo IA é usado de forma ampla, mas geralmente se refere a sistemas que imitam o comportamento humano inteligente, com ou sem aprendizado de máquina envolvido.
+## 💡 Significado real na prática
+Hoje, o termo ***IA*** é usado de forma ampla, mas geralmente se refere a ***sistemas que imitam o comportamento humano inteligente***, com ou sem aprendizado de máquina envolvido.
 
-É importante notar que IA não é só Machine Learning. Ela inclui:
+É importante notar que ***IA não é só Machine Learning***. Ela inclui:
 
-Sistemas baseados em regras (lógicas)
+* Sistemas baseados em regras (lógicas)
+* Agentes autônomos
+* Robótica
+* Processamento de linguagem natural (NLP)
+* Visão computacional
+* Planejamento automático
 
-Agentes autônomos
+## 🧰 Como usar no ambiente de trabalho
+Ao falar sobre IA no trabalho, pense no termo como ***guarda-chuva*** para qualquer tecnologia que simula comportamento inteligente. Algumas formas de uso:
 
-Robótica
+### ✅ Exemplos de aplicação:
+* Atendimento ao cliente com chatbots inteligentes
+* Classificação automática de e-mails ou documentos
+* Análise preditiva de vendas ou churn
+* Reconhecimento facial em sistemas de segurança
+* Sistemas de recomendação (como Netflix ou Amazon)
 
-Processamento de linguagem natural (NLP)
+### 🗣️ Como conversar com colegas ou stakeholders:
+* *“Esse sistema usa IA para classificar as solicitações automaticamente.”*
+* *“Vamos aplicar uma solução de IA para prever falhas nos equipamentos.”*
+* *“A IA aqui está baseada em um modelo de machine learning treinado com dados históricos.”*
+* *“Não é uma IA completa, é um sistema de regras — mas ainda se encaixa como IA.”*
 
-Visão computacional
+## 🧭 Dica prática
+Use o termo ***IA*** quando quiser:
+* Falar em termos mais amplos e acessíveis para pessoas não técnicas
+* Dar uma visão estratégica ou inovadora de um projeto
+* Apresentar o potencial transformador de uma solução
 
-Planejamento automático
-
-🧰 Como usar no ambiente de trabalho
-Ao falar sobre IA no trabalho, pense no termo como guarda-chuva para qualquer tecnologia que simula comportamento inteligente. Algumas formas de uso:
-
-✅ Exemplos de aplicação:
-Atendimento ao cliente com chatbots inteligentes
-
-Classificação automática de e-mails ou documentos
-
-Análise preditiva de vendas ou churn
-
-Reconhecimento facial em sistemas de segurança
-
-Sistemas de recomendação (como Netflix ou Amazon)
-
-🗣️ Como conversar com colegas ou stakeholders:
-“Esse sistema usa IA para classificar as solicitações automaticamente.”
-
-“Vamos aplicar uma solução de IA para prever falhas nos equipamentos.”
-
-“A IA aqui está baseada em um modelo de machine learning treinado com dados históricos.”
-
-“Não é uma IA completa, é um sistema de regras — mas ainda se encaixa como IA.”
-
-🧭 Dica prática
-Use o termo IA quando quiser:
-
-Falar em termos mais amplos e acessíveis para pessoas não técnicas
-
-Dar uma visão estratégica ou inovadora de um projeto
-
-Apresentar o potencial transformador de uma solução
-
-Evite usar de forma vaga ou exagerada (“IA faz tudo”), pois isso pode gerar confusão ou ceticismo.
+*Evite usar de forma vaga ou exagerada (“IA faz tudo”), pois isso pode gerar confusão ou ceticismo.*
