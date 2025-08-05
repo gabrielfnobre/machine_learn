@@ -45,7 +45,7 @@ Ela combina conhecimentos de:
 
 ## 🧪 Tecnologias e ferramentas comuns
 
-| Finalidade	              | Ferramenta / Biblioteca              |
+| **Finalidade**              | **Ferramenta / Biblioteca**          |
 |-----------------------------|--------------------------------------|
 | Processamento de imagem     | OpenCV                               |
 | Deep Learning para imagens  | PyTorch, TensorFlow, Keras           |
